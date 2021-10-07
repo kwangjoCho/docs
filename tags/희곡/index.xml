@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>희곡 on Dr. Cho&#39;s Book Collection</title>
+    <link>https://example.org/tags/%ED%9D%AC%EA%B3%A1/</link>
+    <description>Recent content in 희곡 on Dr. Cho&#39;s Book Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Sep 2021 10:52:38 +0900</lastBuildDate><atom:link href="https://example.org/tags/%ED%9D%AC%EA%B3%A1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>세익스피어 4대 비극집</title>
+      <link>https://example.org/posts/shakespeare/</link>
+      <pubDate>Sat, 18 Sep 2021 10:52:38 +0900</pubDate>
+      
+      <guid>https://example.org/posts/shakespeare/</guid>
+      <description>Contents   &amp;lsquo;셰익스피어 4대 비극집&amp;rsquo;을 내면서 
+  햄릿</description>
+    </item>
+    
+  </channel>
+</rss>

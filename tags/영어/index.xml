@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>영어 on Dr. Cho&#39;s Book Collection</title>
+    <link>https://example.org/tags/%EC%98%81%EC%96%B4/</link>
+    <description>Recent content in 영어 on Dr. Cho&#39;s Book Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Sep 2021 11:28:43 +0900</lastBuildDate><atom:link href="https://example.org/tags/%EC%98%81%EC%96%B4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>소설보다 더 재미있는 영어 연수 여행</title>
+      <link>https://example.org/posts/ukenglish/</link>
+      <pubDate>Tue, 21 Sep 2021 11:28:43 +0900</pubDate>
+      
+      <guid>https://example.org/posts/ukenglish/</guid>
+      <description>Contents   그때 만일 이 책이 나에게 있었다면.
+  출발</description>
+    </item>
+    
+    <item>
+      <title>Check 알짜영어구문</title>
+      <link>https://example.org/posts/english/</link>
+      <pubDate>Thu, 16 Sep 2021 11:38:05 +0900</pubDate>
+      
+      <guid>https://example.org/posts/english/</guid>
+      <description>Contents   제1장 it를 중심으로 하는 구문
+ 1. It is &amp;hellip; for (of)-to- 2.</description>
+    </item>
+    
+    <item>
+      <title>Super English Read</title>
+      <link>https://example.org/posts/englishread/</link>
+      <pubDate>Sun, 12 Sep 2021 17:53:50 +0900</pubDate>
+      
+      <guid>https://example.org/posts/englishread/</guid>
+      <description>머리말 조용히 외치고 싶은 말 : 한국 영어학도들에게 알림
+당신은 당신의 거의 전부를 썩히고 있다!</description>
+    </item>
+    
+    <item>
+      <title>영어 표현 테크닉</title>
+      <link>https://example.org/posts/englishtec/</link>
+      <pubDate>Sat, 28 Aug 2021 11:55:26 +0900</pubDate>
+      
+      <guid>https://example.org/posts/englishtec/</guid>
+      <description>Contents   머리말
+  Chapter 1 명사
+ Unit 1 동사 표현과 명사 표현 unit 2 명사구 작성 테크닉 unit 3 native speaker 단수, 복수에 대한 감각 Unit 4 정관사 the    Chapter 2 동사</description>
+    </item>
+    
+    <item>
+      <title>조화유의 미국영어</title>
+      <link>https://example.org/posts/amenglish/</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/amenglish/</guid>
+      <description>일반인을 위한 경제생활 영어 Contents  1. Any vending machines in here 2.</description>
+    </item>
+    
+  </channel>
+</rss>

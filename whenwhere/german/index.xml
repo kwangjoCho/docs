@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>German on Dr. Cho&#39;s Book Collection</title>
+    <link>https://example.org/whenwhere/german/</link>
+    <description>Recent content in German on Dr. Cho&#39;s Book Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Jul 2020 18:12:22 +0900</lastBuildDate><atom:link href="https://example.org/whenwhere/german/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>짜라투스트라는 이렇게 말했다</title>
+      <link>https://example.org/posts/zarathustra/</link>
+      <pubDate>Mon, 20 Jul 2020 18:12:22 +0900</pubDate>
+      
+      <guid>https://example.org/posts/zarathustra/</guid>
+      <description>Thus Spake Zarathustra  A Book For All And None Friedrich Nietzsche New Translation from German by Thomas Wayne Algora Publishing New York © 2003 by Algora Publishing  Contents   Acknowledgement</description>
+    </item>
+    
+  </channel>
+</rss>

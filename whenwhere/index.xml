@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Whenwhere on Dr. Cho&#39;s Book Collection</title>
+    <link>https://example.org/whenwhere/</link>
+    <description>Recent content in Whenwhere on Dr. Cho&#39;s Book Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Oct 2021 13:47:37 +0900</lastBuildDate><atom:link href="https://example.org/whenwhere/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contemporary</title>
+      <link>https://example.org/whenwhere/contemporary/</link>
+      <pubDate>Thu, 07 Oct 2021 13:47:37 +0900</pubDate>
+      
+      <guid>https://example.org/whenwhere/contemporary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Korea</title>
+      <link>https://example.org/whenwhere/korea/</link>
+      <pubDate>Thu, 07 Oct 2021 13:47:37 +0900</pubDate>
+      
+      <guid>https://example.org/whenwhere/korea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>English</title>
+      <link>https://example.org/whenwhere/english/</link>
+      <pubDate>Tue, 05 Oct 2021 20:02:32 +0900</pubDate>
+      
+      <guid>https://example.org/whenwhere/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Japan</title>
+      <link>https://example.org/whenwhere/japan/</link>
+      <pubDate>Fri, 01 Oct 2021 22:57:22 +0900</pubDate>
+      
+      <guid>https://example.org/whenwhere/japan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modern</title>
+      <link>https://example.org/whenwhere/modern/</link>
+      <pubDate>Mon, 20 Sep 2021 22:18:02 +0900</pubDate>
+      
+      <guid>https://example.org/whenwhere/modern/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rusia</title>
+      <link>https://example.org/whenwhere/rusia/</link>
+      <pubDate>Mon, 20 Sep 2021 10:41:58 +0900</pubDate>
+      
+      <guid>https://example.org/whenwhere/rusia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classic</title>
+      <link>https://example.org/whenwhere/classic/</link>
+      <pubDate>Sat, 18 Sep 2021 10:52:38 +0900</pubDate>
+      
+      <guid>https://example.org/whenwhere/classic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ancient</title>
+      <link>https://example.org/whenwhere/ancient/</link>
+      <pubDate>Fri, 17 Sep 2021 22:51:06 +0900</pubDate>
+      
+      <guid>https://example.org/whenwhere/ancient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Greece</title>
+      <link>https://example.org/whenwhere/greece/</link>
+      <pubDate>Fri, 17 Sep 2021 22:51:06 +0900</pubDate>
+      
+      <guid>https://example.org/whenwhere/greece/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>China</title>
+      <link>https://example.org/whenwhere/china/</link>
+      <pubDate>Thu, 02 Sep 2021 19:13:40 +0900</pubDate>
+      
+      <guid>https://example.org/whenwhere/china/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>German</title>
+      <link>https://example.org/whenwhere/german/</link>
+      <pubDate>Mon, 20 Jul 2020 18:12:22 +0900</pubDate>
+      
+      <guid>https://example.org/whenwhere/german/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

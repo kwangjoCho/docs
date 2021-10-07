@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>경제사 on Dr. Cho&#39;s Book Collection</title>
+    <link>https://example.org/tags/%EA%B2%BD%EC%A0%9C%EC%82%AC/</link>
+    <description>Recent content in 경제사 on Dr. Cho&#39;s Book Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Aug 2021 14:52:25 +0900</lastBuildDate><atom:link href="https://example.org/tags/%EA%B2%BD%EC%A0%9C%EC%82%AC/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>갤브레이스 교수와 함께 떠나는 경제사 여행</title>
+      <link>https://example.org/posts/history6/</link>
+      <pubDate>Mon, 30 Aug 2021 14:52:25 +0900</pubDate>
+      
+      <guid>https://example.org/posts/history6/</guid>
+      <description>Contents  [옮긴이의 말](#옮긴이의 말) [머리말] 1. 대변동 2. 분수령 3.</description>
+    </item>
+    
+  </channel>
+</rss>
