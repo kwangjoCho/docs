@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>군사학 on Dr. Cho&#39;s Book Collection</title>
-    <link>https://example.org/tags/%EA%B5%B0%EC%82%AC%ED%95%99/</link>
+    <link>https://kwangjocho.github.io/tags/%EA%B5%B0%EC%82%AC%ED%95%99/</link>
     <description>Recent content in 군사학 on Dr. Cho&#39;s Book Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2020 14:12:22 +0900</lastBuildDate><atom:link href="https://example.org/tags/%EA%B5%B0%EC%82%AC%ED%95%99/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jul 2020 14:12:22 +0900</lastBuildDate><atom:link href="https://kwangjocho.github.io/tags/%EA%B5%B0%EC%82%AC%ED%95%99/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>손자병법</title>
-      <link>https://example.org/posts/sonja/</link>
+      <link>https://kwangjocho.github.io/posts/sonja/</link>
       <pubDate>Thu, 23 Jul 2020 14:12:22 +0900</pubDate>
       
-      <guid>https://example.org/posts/sonja/</guid>
+      <guid>https://kwangjocho.github.io/posts/sonja/</guid>
       <description>第一篇 始計 孫子曰：兵者，國之大事，死生之地，存亡之道，不可不察也。
 병(전쟁)은 나라의 큰 일일뿐만 아니라
 삶 과 죽음의 터가 되고 존망의 갈림길이니 잘 살피지 아니 할 수 없다.</description>

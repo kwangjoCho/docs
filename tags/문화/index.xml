@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>문화 on Dr. Cho&#39;s Book Collection</title>
-    <link>https://example.org/tags/%EB%AC%B8%ED%99%94/</link>
+    <link>https://kwangjocho.github.io/tags/%EB%AC%B8%ED%99%94/</link>
     <description>Recent content in 문화 on Dr. Cho&#39;s Book Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Sep 2021 22:01:13 +0900</lastBuildDate><atom:link href="https://example.org/tags/%EB%AC%B8%ED%99%94/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Sep 2021 22:01:13 +0900</lastBuildDate><atom:link href="https://kwangjocho.github.io/tags/%EB%AC%B8%ED%99%94/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>문명의 층돌</title>
-      <link>https://example.org/posts/culture4/</link>
+      <link>https://kwangjocho.github.io/posts/culture4/</link>
       <pubDate>Mon, 27 Sep 2021 22:01:13 +0900</pubDate>
       
-      <guid>https://example.org/posts/culture4/</guid>
+      <guid>https://kwangjocho.github.io/posts/culture4/</guid>
       <description>Contents  1. 새로운 세계 정세  국기와 문화 정체성 세계의 다극화, 다문명화 다른 세계상?</description>
     </item>
     
     <item>
       <title>질투하는 문명</title>
-      <link>https://example.org/posts/culture3/</link>
+      <link>https://kwangjocho.github.io/posts/culture3/</link>
       <pubDate>Fri, 24 Sep 2021 22:22:49 +0900</pubDate>
       
-      <guid>https://example.org/posts/culture3/</guid>
+      <guid>https://kwangjocho.github.io/posts/culture3/</guid>
       <description>Contents   옮긴이의 글
   지은이의 글
   제 1 장 문명이 질병을 만들고, 질병이 문명을 만든다</description>
@@ -29,10 +29,10 @@
     
     <item>
       <title>당신은 뉴에이지와 그 음악에 대해 얼마나 알고 있습니까?</title>
-      <link>https://example.org/posts/newage/</link>
+      <link>https://kwangjocho.github.io/posts/newage/</link>
       <pubDate>Wed, 22 Sep 2021 10:19:45 +0900</pubDate>
       
-      <guid>https://example.org/posts/newage/</guid>
+      <guid>https://kwangjocho.github.io/posts/newage/</guid>
       <description>Contents   추천사
   서문
   1장. 뉴에이지 운동에 대한 이해</description>
@@ -40,19 +40,19 @@
     
     <item>
       <title>대중문화의 겉과 속</title>
-      <link>https://example.org/posts/culture2/</link>
+      <link>https://kwangjocho.github.io/posts/culture2/</link>
       <pubDate>Wed, 22 Sep 2021 08:54:03 +0900</pubDate>
       
-      <guid>https://example.org/posts/culture2/</guid>
+      <guid>https://kwangjocho.github.io/posts/culture2/</guid>
       <description>Contents  책머리에 [이 책을 읽기 전에 미리 알아 두어야 할 용어](#0} 1.</description>
     </item>
     
     <item>
       <title>대중문화와 고급문화</title>
-      <link>https://example.org/posts/culture/</link>
+      <link>https://kwangjocho.github.io/posts/culture/</link>
       <pubDate>Tue, 21 Sep 2021 19:38:21 +0900</pubDate>
       
-      <guid>https://example.org/posts/culture/</guid>
+      <guid>https://kwangjocho.github.io/posts/culture/</guid>
       <description>Contents   1장. 대중문화와 취향문화
  1. 대중문화 비판론의 전망 2.</description>
     </item>

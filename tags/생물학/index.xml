@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>생물학 on Dr. Cho&#39;s Book Collection</title>
-    <link>https://example.org/tags/%EC%83%9D%EB%AC%BC%ED%95%99/</link>
+    <link>https://kwangjocho.github.io/tags/%EC%83%9D%EB%AC%BC%ED%95%99/</link>
     <description>Recent content in 생물학 on Dr. Cho&#39;s Book Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Oct 2021 13:47:37 +0900</lastBuildDate><atom:link href="https://example.org/tags/%EC%83%9D%EB%AC%BC%ED%95%99/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Oct 2021 13:47:37 +0900</lastBuildDate><atom:link href="https://kwangjocho.github.io/tags/%EC%83%9D%EB%AC%BC%ED%95%99/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>생물은 모두 시계를 갖고 있다</title>
-      <link>https://example.org/posts/bio3/</link>
+      <link>https://kwangjocho.github.io/posts/bio3/</link>
       <pubDate>Thu, 07 Oct 2021 13:47:37 +0900</pubDate>
       
-      <guid>https://example.org/posts/bio3/</guid>
+      <guid>https://kwangjocho.github.io/posts/bio3/</guid>
       <description>Contents   책 머리에
   제 1장 생물 시계의 발견</description>
     </item>
     
     <item>
       <title>생명의 신비</title>
-      <link>https://example.org/posts/bio2/</link>
+      <link>https://kwangjocho.github.io/posts/bio2/</link>
       <pubDate>Thu, 07 Oct 2021 13:16:25 +0900</pubDate>
       
-      <guid>https://example.org/posts/bio2/</guid>
+      <guid>https://kwangjocho.github.io/posts/bio2/</guid>
       <description>Contents   머리말
   1. 잘 알려지지 않은 정자와 난자 이야기</description>
     </item>
     
     <item>
       <title>제6의 멸종</title>
-      <link>https://example.org/posts/bio/</link>
+      <link>https://kwangjocho.github.io/posts/bio/</link>
       <pubDate>Sun, 03 Oct 2021 13:06:03 +0900</pubDate>
       
-      <guid>https://example.org/posts/bio/</guid>
+      <guid>https://kwangjocho.github.io/posts/bio/</guid>
       <description>The Sixth Extinction Contents  저자 소개 옮긴이의 말 : 우리 시대의 멸종 1.</description>
     </item>
     

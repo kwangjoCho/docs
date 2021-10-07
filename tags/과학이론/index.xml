@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>과학이론 on Dr. Cho&#39;s Book Collection</title>
-    <link>https://example.org/tags/%EA%B3%BC%ED%95%99%EC%9D%B4%EB%A1%A0/</link>
+    <link>https://kwangjocho.github.io/tags/%EA%B3%BC%ED%95%99%EC%9D%B4%EB%A1%A0/</link>
     <description>Recent content in 과학이론 on Dr. Cho&#39;s Book Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Aug 2021 17:52:13 +0900</lastBuildDate><atom:link href="https://example.org/tags/%EA%B3%BC%ED%95%99%EC%9D%B4%EB%A1%A0/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Aug 2021 17:52:13 +0900</lastBuildDate><atom:link href="https://kwangjocho.github.io/tags/%EA%B3%BC%ED%95%99%EC%9D%B4%EB%A1%A0/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>과학혁명의 구조</title>
-      <link>https://example.org/posts/science3/</link>
+      <link>https://kwangjocho.github.io/posts/science3/</link>
       <pubDate>Wed, 25 Aug 2021 17:52:13 +0900</pubDate>
       
-      <guid>https://example.org/posts/science3/</guid>
+      <guid>https://kwangjocho.github.io/posts/science3/</guid>
       <description>Contents  역자 서문 서언 I. 서론:역사의 역할 II. 정상과학에의 길 III.</description>
     </item>
     
     <item>
       <title>과학, 어떻게 배우고 생각할 것인가?</title>
-      <link>https://example.org/posts/science/</link>
+      <link>https://kwangjocho.github.io/posts/science/</link>
       <pubDate>Tue, 24 Aug 2021 21:40:10 +0900</pubDate>
       
-      <guid>https://example.org/posts/science/</guid>
+      <guid>https://kwangjocho.github.io/posts/science/</guid>
       <description>Contents   들어가는 말
   이 책의 내용</description>
     </item>

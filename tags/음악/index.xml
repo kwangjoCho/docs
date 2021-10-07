@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>음악 on Dr. Cho&#39;s Book Collection</title>
-    <link>https://example.org/tags/%EC%9D%8C%EC%95%85/</link>
+    <link>https://kwangjocho.github.io/tags/%EC%9D%8C%EC%95%85/</link>
     <description>Recent content in 음악 on Dr. Cho&#39;s Book Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Sep 2021 19:36:26 +0900</lastBuildDate><atom:link href="https://example.org/tags/%EC%9D%8C%EC%95%85/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Sep 2021 19:36:26 +0900</lastBuildDate><atom:link href="https://kwangjocho.github.io/tags/%EC%9D%8C%EC%95%85/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>음악감상입문</title>
-      <link>https://example.org/posts/music2/</link>
+      <link>https://kwangjocho.github.io/posts/music2/</link>
       <pubDate>Mon, 27 Sep 2021 19:36:26 +0900</pubDate>
       
-      <guid>https://example.org/posts/music2/</guid>
+      <guid>https://kwangjocho.github.io/posts/music2/</guid>
       <description>Contents  머리말 1. 음악은 누구나 알 수 있다 2. 음악 감사의 방법  (1) 듣는 일 (2) 연주하는 일   3.</description>
     </item>
     
     <item>
       <title>명곡명연해설집</title>
-      <link>https://example.org/posts/music/</link>
+      <link>https://kwangjocho.github.io/posts/music/</link>
       <pubDate>Sun, 19 Sep 2021 14:25:43 +0900</pubDate>
       
-      <guid>https://example.org/posts/music/</guid>
+      <guid>https://kwangjocho.github.io/posts/music/</guid>
       <description>Contents   The Best Home Classics
  음악의 창시 1.</description>
     </item>
     
     <item>
       <title>재즈가 좋다</title>
-      <link>https://example.org/posts/jazz2/</link>
+      <link>https://kwangjocho.github.io/posts/jazz2/</link>
       <pubDate>Mon, 13 Sep 2021 18:12:35 +0900</pubDate>
       
-      <guid>https://example.org/posts/jazz2/</guid>
+      <guid>https://kwangjocho.github.io/posts/jazz2/</guid>
       <description>Contents   제1부 기분에 따라 분위기에 따라 즐기는 재즈</description>
     </item>
     
     <item>
       <title>Jazz 총론</title>
-      <link>https://example.org/posts/jazz/</link>
+      <link>https://kwangjocho.github.io/posts/jazz/</link>
       <pubDate>Sat, 25 Jul 2020 13:25:29 +0900</pubDate>
       
-      <guid>https://example.org/posts/jazz/</guid>
+      <guid>https://kwangjocho.github.io/posts/jazz/</guid>
       <description>재즈의 역사와 해설
 CONTENTS   서문 (PREFACE)
   제1부 재즈의 기본(Basics Of Jazz)</description>
