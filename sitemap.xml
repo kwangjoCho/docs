@@ -2,25 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kwangjocho.github.io/docs/posts/mind/</loc>
+    <lastmod>2021-10-11T14:37:39+09:00</lastmod>
+  </url><url>
     <loc>https://kwangjocho.github.io/docs/categories/2.%EC%B2%A0%ED%95%99/</loc>
-    <lastmod>2021-10-11T10:40:20+09:00</lastmod>
+    <lastmod>2021-10-11T14:37:39+09:00</lastmod>
   </url><url>
     <loc>https://kwangjocho.github.io/docs/categories/</loc>
-    <lastmod>2021-10-11T10:40:20+09:00</lastmod>
+    <lastmod>2021-10-11T14:37:39+09:00</lastmod>
   </url><url>
     <loc>https://kwangjocho.github.io/docs/whenwhere/contemporary/</loc>
+    <lastmod>2021-10-11T14:37:39+09:00</lastmod>
+  </url><url>
+    <loc>https://kwangjocho.github.io/docs/whenwhere/german/</loc>
+    <lastmod>2021-10-11T14:37:39+09:00</lastmod>
+  </url><url>
+    <loc>https://kwangjocho.github.io/docs/posts/</loc>
+    <lastmod>2021-10-11T14:37:39+09:00</lastmod>
+  </url><url>
+    <loc>https://kwangjocho.github.io/docs/tags/</loc>
+    <lastmod>2021-10-11T14:37:39+09:00</lastmod>
+  </url><url>
+    <loc>https://kwangjocho.github.io/docs/whenwhere/</loc>
+    <lastmod>2021-10-11T14:37:39+09:00</lastmod>
+  </url><url>
+    <loc>https://kwangjocho.github.io/docs/tags/%EC%8B%AC%EB%A6%AC/</loc>
+    <lastmod>2021-10-11T14:37:39+09:00</lastmod>
+  </url><url>
+    <loc>https://kwangjocho.github.io/docs/tags/%EC%9D%B8%EC%8B%9D%EB%A1%A0/</loc>
+    <lastmod>2021-10-11T14:37:39+09:00</lastmod>
+  </url><url>
+    <loc>https://kwangjocho.github.io/docs/categories/3.%EC%A2%85%EA%B5%90/</loc>
     <lastmod>2021-10-11T10:40:20+09:00</lastmod>
   </url><url>
     <loc>https://kwangjocho.github.io/docs/whenwhere/english/</loc>
-    <lastmod>2021-10-11T10:40:20+09:00</lastmod>
-  </url><url>
-    <loc>https://kwangjocho.github.io/docs/posts/</loc>
-    <lastmod>2021-10-11T10:40:20+09:00</lastmod>
-  </url><url>
-    <loc>https://kwangjocho.github.io/docs/tags/</loc>
-    <lastmod>2021-10-11T10:40:20+09:00</lastmod>
-  </url><url>
-    <loc>https://kwangjocho.github.io/docs/whenwhere/</loc>
     <lastmod>2021-10-11T10:40:20+09:00</lastmod>
   </url><url>
     <loc>https://kwangjocho.github.io/docs/posts/life6/</loc>
@@ -59,9 +74,6 @@
     <loc>https://kwangjocho.github.io/docs/posts/education/</loc>
     <lastmod>2021-10-10T10:42:05+09:00</lastmod>
   </url><url>
-    <loc>https://kwangjocho.github.io/docs/categories/3.%EC%A2%85%EA%B5%90/</loc>
-    <lastmod>2021-10-09T15:25:53+09:00</lastmod>
-  </url><url>
     <loc>https://kwangjocho.github.io/docs/tags/%EB%AC%B8%ED%99%94/</loc>
     <lastmod>2021-10-09T15:25:53+09:00</lastmod>
   </url><url>
@@ -71,13 +83,7 @@
     <loc>https://kwangjocho.github.io/docs/posts/rusia/</loc>
     <lastmod>2021-10-09T13:08:36+09:00</lastmod>
   </url><url>
-    <loc>https://kwangjocho.github.io/docs/whenwhere/german/</loc>
-    <lastmod>2021-10-09T11:02:49+09:00</lastmod>
-  </url><url>
     <loc>https://kwangjocho.github.io/docs/posts/boundary/</loc>
-    <lastmod>2021-10-09T11:02:49+09:00</lastmod>
-  </url><url>
-    <loc>https://kwangjocho.github.io/docs/tags/%EC%9D%B8%EC%8B%9D%EB%A1%A0/</loc>
     <lastmod>2021-10-09T11:02:49+09:00</lastmod>
   </url><url>
     <loc>https://kwangjocho.github.io/docs/categories/10.%EC%97%AD%EC%82%AC/</loc>
@@ -127,9 +133,6 @@
   </url><url>
     <loc>https://kwangjocho.github.io/docs/posts/bio2/</loc>
     <lastmod>2021-10-07T13:16:25+09:00</lastmod>
-  </url><url>
-    <loc>https://kwangjocho.github.io/docs/tags/%EC%8B%AC%EB%A6%AC/</loc>
-    <lastmod>2021-10-06T15:08:44+09:00</lastmod>
   </url><url>
     <loc>https://kwangjocho.github.io/docs/posts/sexnpower/</loc>
     <lastmod>2021-10-06T15:08:44+09:00</lastmod>
