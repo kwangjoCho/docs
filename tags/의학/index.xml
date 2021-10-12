@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>6.기술과학 on Dr. Cho&#39;s Book Collection</title>
-    <link>https://kwangjocho.github.io/docs/categories/6.%EA%B8%B0%EC%88%A0%EA%B3%BC%ED%95%99/</link>
-    <description>Recent content in 6.기술과학 on Dr. Cho&#39;s Book Collection</description>
+    <title>의학 on Dr. Cho&#39;s Book Collection</title>
+    <link>https://kwangjocho.github.io/docs/tags/%EC%9D%98%ED%95%99/</link>
+    <description>Recent content in 의학 on Dr. Cho&#39;s Book Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Oct 2021 17:44:23 +0900</lastBuildDate><atom:link href="https://kwangjocho.github.io/docs/categories/6.%EA%B8%B0%EC%88%A0%EA%B3%BC%ED%95%99/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Oct 2021 17:44:23 +0900</lastBuildDate><atom:link href="https://kwangjocho.github.io/docs/tags/%EC%9D%98%ED%95%99/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>뇌내혁명 2</title>
       <link>https://kwangjocho.github.io/docs/posts/medicine2/</link>
@@ -26,15 +26,6 @@
       <description>Contents   머리말
   프롤로그
  병에 걸리지 않는 것이 진정한 의학 뇌에서 모르핀을 분비시키자 뇌내 모르핀은 성인병도 막아준다.</description>
-    </item>
-    
-    <item>
-      <title>우연과 행운의 과학적 발견 이야기</title>
-      <link>https://kwangjocho.github.io/docs/posts/science4/</link>
-      <pubDate>Wed, 25 Aug 2021 22:13:51 +0900</pubDate>
-      
-      <guid>https://kwangjocho.github.io/docs/posts/science4/</guid>
-      <description>Contents  제1장 사상최초의 스트리킹 제2장 신세계가 열리다 제3장 말라리아에 걸린 인디언과 킨키나나무 제4장 사과는 왜 수직으로 떨어지는가?</description>
     </item>
     
   </channel>
