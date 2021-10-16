@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>논리학 on Dr. Cho&#39;s Book Collection</title>
+    <link>https://kwangjocho.github.io/docs/tags/%EB%85%BC%EB%A6%AC%ED%95%99/</link>
+    <description>Recent content in 논리학 on Dr. Cho&#39;s Book Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Oct 2021 11:06:54 +0900</lastBuildDate><atom:link href="https://kwangjocho.github.io/docs/tags/%EB%85%BC%EB%A6%AC%ED%95%99/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>논리학 교재</title>
+      <link>https://kwangjocho.github.io/docs/posts/logic/</link>
+      <pubDate>Sat, 16 Oct 2021 11:06:54 +0900</pubDate>
+      
+      <guid>https://kwangjocho.github.io/docs/posts/logic/</guid>
+      <description>Contents   제1장 논증에의 초대
+ Ⅰ. 들어가기 Ⅱ. 논증 Ⅲ.</description>
+    </item>
+    
+  </channel>
+</rss>
