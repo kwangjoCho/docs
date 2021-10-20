@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kwangjocho.github.io/docs/posts/ex/</loc>
-    <lastmod>2021-10-20T11:23:43+09:00</lastmod>
-  </url><url>
-    <loc>https://kwangjocho.github.io/docs/posts/</loc>
-    <lastmod>2021-10-20T11:23:43+09:00</lastmod>
-  </url><url>
     <loc>https://kwangjocho.github.io/docs/categories/9.%EB%AC%B8%ED%95%99/</loc>
     <lastmod>2021-10-20T10:20:33+09:00</lastmod>
   </url><url>
@@ -18,6 +12,9 @@
     <lastmod>2021-10-20T10:20:33+09:00</lastmod>
   </url><url>
     <loc>https://kwangjocho.github.io/docs/whenwhere/france/</loc>
+    <lastmod>2021-10-20T10:20:33+09:00</lastmod>
+  </url><url>
+    <loc>https://kwangjocho.github.io/docs/posts/</loc>
     <lastmod>2021-10-20T10:20:33+09:00</lastmod>
   </url><url>
     <loc>https://kwangjocho.github.io/docs/tags/</loc>
