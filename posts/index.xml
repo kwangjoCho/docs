@@ -6,7 +6,27 @@
     <description>Recent content in Posts on Dr. Cho&#39;s Book Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Oct 2021 17:46:20 +0900</lastBuildDate><atom:link href="https://kwangjocho.github.io/docs/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Oct 2021 11:23:43 +0900</lastBuildDate><atom:link href="https://kwangjocho.github.io/docs/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PDF embedding test</title>
+      <link>https://kwangjocho.github.io/docs/posts/ex/</link>
+      <pubDate>Wed, 20 Oct 2021 11:23:43 +0900</pubDate>
+      
+      <guid>https://kwangjocho.github.io/docs/posts/ex/</guid>
+      <description>Iframe PDF Viewer </description>
+    </item>
+    
+    <item>
+      <title>개미혁명</title>
+      <link>https://kwangjocho.github.io/docs/posts/ant2/</link>
+      <pubDate>Wed, 20 Oct 2021 10:20:33 +0900</pubDate>
+      
+      <guid>https://kwangjocho.github.io/docs/posts/ant2/</guid>
+      <description>Contents   1.끝
+  2. 숲속산보
+  3.</description>
+    </item>
+    
     <item>
       <title>개미</title>
       <link>https://kwangjocho.github.io/docs/posts/ant/</link>
